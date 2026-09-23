@@ -1,4 +1,4 @@
-I am a Computer Science student and aspiring software developer with a strong interest in Python, web development, Artificial Intelligence, and building practical technology solutions.
+I am Abhilash, I am pursuing my b.tech in NNRG,I am a Computer Science student and aspiring software developer with a strong interest in Python, web development, Artificial Intelligence, and building practical technology solutions.
 
 I enjoy turning ideas into working projects, from Python-based applications and Flask web platforms to AI-powered systems and personalized learning solutions. I have hands-on experience working with HTML, Python, Flask, databases, GitHub, and deployment platforms, while continuously exploring new technologies and improving my development skills.
 
